@@ -1,2 +1,3 @@
 # Spotify
-Connection to Spotify-Account
+Connection to my Spotify-Account to evaluate my Music-Taste :-). 
+
